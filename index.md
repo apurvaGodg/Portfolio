@@ -63,6 +63,7 @@ Courses: Big Data Analytics, Programming for data science, Data Visualization, D
 Courses:  Soft computing and Neural Network, MATLAB programming, Data Structures, Digital Logic Design,  Joint Time-Frequency Analysis, Industrial Management, Introduction to Programming
 
  ### Contact Details
+
 apurva.godghase01@gmail.com
 
 469.216.7585
