@@ -58,14 +58,16 @@ _August 2014- May 2015_
 
 # Education
 ## The University of Texas at Dallas
-### M.S.,Information Technology Management (Business Intelligence and Analytics concentration) August 2016 - present
+### M.S. Information Technology Management (Business Intelligence and Analytics concentration)
+August 2016 - present
 
 ​ Overall GPA:  3.742
 
 Courses: Big Data Analytics, Programming for data science, Data Visualization, Data management, Data Warehousing, Statistics for analytics, Business Analytics using SAS, Marketing Management, Organizational Behavior
 
 ## The University of Pune
-### Electronics and Telecommunication August 2011- May 2015
+### B.E. Electronics and Telecommunication 
+August 2011- May 2015
 
 Courses:  Soft computing and Neural Network, MATLAB programming, Data Structures, Digital Logic Design,  Joint Time-Frequency Analysis, Industrial Management, Introduction to Programming
 
