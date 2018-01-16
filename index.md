@@ -1,4 +1,4 @@
--------------------------------------------------Click 'View on GitGub' to visit the Projects                                                     
+--Click 'View on GitGub' to visit the Projects                                                     
 # APURVA GODGHASE
 
 With an interest in analyzing consumer behavior and data trend, I enjoy storytelling with Statistics and Business Intelligence. My areas of expertise revolve around programming for data analysis, databases, visualization, big data and AWS.
