@@ -9,7 +9,7 @@ I believe, I amassed many of these skills from my 2+ years of work experience wi
 
 # Work Experience
 
-## The University of Texas at Dallas,Research Assistant
+## CITT Services, Marketing Analyst Intern
 _January 2018- May 2018_
 
 ## The University of Texas at Dallas,Research Assistant
