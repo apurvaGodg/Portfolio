@@ -1,3 +1,4 @@
+-------------------------------------------------------------------------------------Click 'View on GitGub' to visit the Projects                                                     
 # APURVA GODGHASE
 
 With an interest in analyzing consumer behavior and data trend, I enjoy storytelling with Statistics and Business Intelligence. My areas of expertise revolve around programming for data analysis, databases, visualization, big data and AWS.
@@ -9,11 +10,15 @@ I believe, I amassed many of these skills from my 2+ years of work experience wi
 # Work Experience
 
 ## The University of Texas at Dallas,Research Assistant
+_January 2018- May 2018_
+
+## The University of Texas at Dallas,Research Assistant
 _September 2017- December 2017_
 
 - Cleaned 33GB of federal employment data
 - Merged 655 disparate sources
 - SAS base Programming, Cygwin
+- Macros to automate repetative tasks
 - Primary key to identify the source
 - Data preparation - SAS tables,  adding headers)   
 - Data manipulation (ex. Imputation, data formatting) 
