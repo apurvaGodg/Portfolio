@@ -1,3 +1,5 @@
+# APURVA GODGHASE
+
 With an interest in analyzing consumer behavior and data trend, I enjoy storytelling with Statistics and Business Intelligence. My areas of expertise revolve around programming for data analysis, databases, visualization, big data and AWS.
 
 I am someone who’s insatiably curious about anything and everything under the sun. I believe I am a self -starter with a tenacious approach towards learning new things! 
