@@ -20,9 +20,9 @@ _September 2017- December 2017_
 - SAS base Programming, Cygwin
 - Macros to automate repetative tasks
 - Primary key to identify the source
-- Data preparation - SAS tables,  adding headers)   
-- Data manipulation (ex. Imputation, data formatting) 
-- Data validation: data integrity, accuracy, completeness
+- Data preparation - SAS tables,  adding headers,   
+- Data manipulation - Imputation, data formatting
+- Data validation - data integrity, accuracy, completeness
 
 ## Legrand-North America,Content Data Analyst Intern
 _June 2017- August 2017_
@@ -71,7 +71,7 @@ August 2011- May 2015
 
 Courses:  Soft computing and Neural Network, MATLAB programming, Data Structures, Digital Logic Design,  Joint Time-Frequency Analysis, Industrial Management, Introduction to Programming
 
- ### Contact Details
+### Contact Details
 
 apurva.godghase01@gmail.com
 
