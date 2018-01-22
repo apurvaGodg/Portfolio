@@ -12,6 +12,14 @@ I believe, I amassed many of these skills from my 2+ years of work experience wi
 ## CITT Services, Marketing Analyst Intern
 _January 2018- May 2018_
 
+- Marketing strategy solutions to companies in forex trading, financial technology and cloud space 
+- Variance analysis
+- Review the income statement, balance sheet and cash flow statement
+- Improve the trader web traffic to the 'Traderscolo' website
+- AdWords, Bing campaigns
+- A/B testing 
+- SEO/PPC  
+
 ## The University of Texas at Dallas,Research Assistant
 _September 2017- December 2017_
 
